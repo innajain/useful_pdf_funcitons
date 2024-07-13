@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "pdf-lib": "^1.17.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.6",
+    "@types/node": "^20.14.10"
+  }
+}

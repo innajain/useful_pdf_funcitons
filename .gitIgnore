@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# Dependencies
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist/
+build/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
